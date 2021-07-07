@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-07T02:58:04.760Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="JGiKwq-_MeYmFYGw28dh" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-07T08:05:53.621Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="6FnpZab8vY1Uy1EE0fFT" version="14.8.4" type="github">
   <diagram id="s0ktNoMSp_u4B69irmWW" name="Page-1">
     <mxGraphModel dx="1209" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -140,7 +140,7 @@
         <mxCell id="fX7RQSnT5xPOVE9BPrSB-8" value="receive value from&lt;br&gt;results channel&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="560" y="690" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="fX7RQSnT5xPOVE9BPrSB-9" value="send request" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="fX7RQSnT5xPOVE9BPrSB-9" value="send requests" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="620" y="490" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="fX7RQSnT5xPOVE9BPrSB-10" value="print result" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
