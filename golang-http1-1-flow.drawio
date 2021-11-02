@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-02T07:54:14.488Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="AKUuo-ZhbO6RsnUeFcEN" version="15.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-02T08:00:22.599Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="lUpnNiGy1L6YMDOax2hT" version="15.6.5" type="github">
   <diagram id="J2EWIxKZFVFp0aU-S5zG" name="Page-1">
     <mxGraphModel dx="1209" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -222,10 +222,10 @@
           <mxGeometry x="100" y="1060" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pzGNESv07BAN-wGDjxDe-4" value="" style="whiteSpace=wrap;html=1;rounded=1;fontStyle=1;strokeColor=default;fillColor=none;fontColor=default;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="970" width="180" height="200" as="geometry" />
+          <mxGeometry x="350" y="920" width="180" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="pzGNESv07BAN-wGDjxDe-6" value="Dial TCP connection" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#314354;fillColor=#647687;fontColor=#ffffff;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="380" y="990" width="130" height="30" as="geometry" />
+        <mxCell id="pzGNESv07BAN-wGDjxDe-6" value="TCP dail connection" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#314354;fillColor=#647687;fontColor=#ffffff;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="370" y="940" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pzGNESv07BAN-wGDjxDe-9" value="" style="whiteSpace=wrap;html=1;rounded=1;fontStyle=1;strokeColor=default;fillColor=none;fontColor=default;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="359" y="1050" width="161" height="100" as="geometry" />
@@ -281,26 +281,32 @@
         <mxCell id="pzGNESv07BAN-wGDjxDe-36" value="NewRequest" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#314354;fillColor=#647687;fontColor=#ffffff;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="681" y="910" width="149" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pzGNESv07BAN-wGDjxDe-38" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;labelBackgroundColor=default;fontColor=default;strokeColor=#666666;strokeWidth=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#f5f5f5;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pzGNESv07BAN-wGDjxDe-36" target="pzGNESv07BAN-wGDjxDe-12">
+        <mxCell id="pzGNESv07BAN-wGDjxDe-38" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;labelBackgroundColor=default;fontColor=default;strokeColor=#666666;strokeWidth=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#f5f5f5;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pzGNESv07BAN-wGDjxDe-36">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="438" y="1000" as="sourcePoint" />
-            <mxPoint x="751" y="990" as="targetPoint" />
+            <mxPoint x="755.5" y="990" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pzGNESv07BAN-wGDjxDe-40" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=default;fontColor=default;strokeColor=default;strokeWidth=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pzGNESv07BAN-wGDjxDe-6">
+        <mxCell id="pzGNESv07BAN-wGDjxDe-44" value="new *persistConn" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#314354;fillColor=#647687;fontColor=#ffffff;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="370" y="990" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pzGNESv07BAN-wGDjxDe-45" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=default;fontColor=default;strokeColor=default;strokeWidth=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pzGNESv07BAN-wGDjxDe-6" target="pzGNESv07BAN-wGDjxDe-44">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="950" as="sourcePoint" />
-            <mxPoint x="543.5" y="1005" as="targetPoint" />
+            <mxPoint x="390" y="940" as="sourcePoint" />
+            <mxPoint x="440" y="890" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pzGNESv07BAN-wGDjxDe-41" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=default;fontColor=default;strokeColor=default;strokeWidth=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="pzGNESv07BAN-wGDjxDe-48" value="" style="whiteSpace=wrap;html=1;rounded=1;fontStyle=1;strokeColor=default;fillColor=none;fontColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="665.5" y="895" width="180" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="pzGNESv07BAN-wGDjxDe-47" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=default;fontColor=default;strokeColor=default;strokeWidth=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.533;entryY=0.333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pzGNESv07BAN-wGDjxDe-44" target="pzGNESv07BAN-wGDjxDe-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="652.5" y="1004.5" as="sourcePoint" />
-            <mxPoint x="680" y="1005" as="targetPoint" />
+            <mxPoint x="390" y="940" as="sourcePoint" />
+            <mxPoint x="440" y="890" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pzGNESv07BAN-wGDjxDe-43" value="new *persistentConn" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#314354;fillColor=#647687;fontColor=#ffffff;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="545.75" y="990" width="106.5" height="30" as="geometry" />
+        <mxCell id="pzGNESv07BAN-wGDjxDe-49" value="Goroutine" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontColor=default;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="725.5" y="870" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
