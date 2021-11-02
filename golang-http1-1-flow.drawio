@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-02T07:10:41.119Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="Ny4FQBsTf6RjDYcwJkQq" version="15.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-02T07:35:53.673Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="U7cCziVHE3sD1nVhAJcR" version="15.6.5" type="github">
   <diagram id="J2EWIxKZFVFp0aU-S5zG" name="Page-1">
     <mxGraphModel dx="1209" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -204,10 +204,10 @@
         <mxCell id="Hpju6PKB836rXU66gbII-34" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#314354;fillColor=#647687;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="539" y="815" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pzGNESv07BAN-wGDjxDe-1" value="(*Transport).dialConnFor&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=1;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="pzGNESv07BAN-wGDjxDe-1" value="(*Transport).dialConnFor&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontStyle=1;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="100" y="990" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pzGNESv07BAN-wGDjxDe-2" value="(*Transport).queueForDial" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontColor=default;" vertex="1" parent="1">
+        <mxCell id="pzGNESv07BAN-wGDjxDe-2" value="(*Transport).queueForDial" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontStyle=1;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="100" y="920" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pzGNESv07BAN-wGDjxDe-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=default;strokeColor=default;labelBackgroundColor=default;" edge="1" parent="1" source="pzGNESv07BAN-wGDjxDe-3" target="pzGNESv07BAN-wGDjxDe-4">
@@ -218,26 +218,26 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pzGNESv07BAN-wGDjxDe-3" value="(*Transport).dialConn&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontColor=default;" vertex="1" parent="1">
+        <mxCell id="pzGNESv07BAN-wGDjxDe-3" value="(*Transport).dialConn&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontStyle=1;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="100" y="1060" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pzGNESv07BAN-wGDjxDe-4" value="" style="whiteSpace=wrap;html=1;rounded=1;fontStyle=1;strokeColor=default;fillColor=none;fontColor=default;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="980" width="170" height="190" as="geometry" />
+          <mxGeometry x="350" y="970" width="170" height="200" as="geometry" />
         </mxCell>
         <mxCell id="pzGNESv07BAN-wGDjxDe-6" value="Dial TCP connection" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#314354;fillColor=#647687;fontColor=#ffffff;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="370" y="995" width="130" height="30" as="geometry" />
+          <mxGeometry x="370" y="990" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pzGNESv07BAN-wGDjxDe-9" value="" style="whiteSpace=wrap;html=1;rounded=1;fontStyle=1;strokeColor=default;fillColor=none;fontColor=default;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="359" y="1050" width="150" height="110" as="geometry" />
+          <mxGeometry x="359" y="1050" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="pzGNESv07BAN-wGDjxDe-7" value="writeLoop" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#314354;fillColor=#647687;fontColor=#ffffff;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="370" y="1060" width="130" height="30" as="geometry" />
+          <mxGeometry x="370" y="1065" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pzGNESv07BAN-wGDjxDe-8" value="readLoop" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#314354;fillColor=#647687;fontColor=#ffffff;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="370" y="1110" width="130" height="30" as="geometry" />
+          <mxGeometry x="369" y="1105" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pzGNESv07BAN-wGDjxDe-10" value="Goroutine" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontColor=default;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="404" y="1028" width="60" height="30" as="geometry" />
+          <mxGeometry x="404" y="1020" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pzGNESv07BAN-wGDjxDe-11" value="new *persistConn" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#314354;fillColor=#647687;fontColor=#ffffff;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="633" y="930" width="140" height="30" as="geometry" />
@@ -273,6 +273,18 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="1050" as="sourcePoint" />
             <mxPoint x="440" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pzGNESv07BAN-wGDjxDe-28" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=default;fontColor=default;strokeColor=default;strokeWidth=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pzGNESv07BAN-wGDjxDe-2" target="pzGNESv07BAN-wGDjxDe-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="950" as="sourcePoint" />
+            <mxPoint x="440" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pzGNESv07BAN-wGDjxDe-29" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=default;fontColor=default;strokeColor=default;strokeWidth=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="179.5" y="1030" as="sourcePoint" />
+            <mxPoint x="179.5" y="1060" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
