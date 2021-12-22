@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-22T03:25:46.520Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="CcuZ6SOhtXh746OAUp0T" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-22T03:32:54.934Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="cvnxDubpwos2h4BSwvAa" version="16.0.0" type="github">
   <diagram id="zD8Zef6-_hayys4gG_Wi" name="Page-1">
     <mxGraphModel dx="1209" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -313,7 +313,7 @@
         <mxCell id="DBTXj5gluoL8a0wRJHRE-6" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;strokeWidth=1;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="230" y="870" width="310" height="460" as="geometry" />
         </mxCell>
-        <mxCell id="DBTXj5gluoL8a0wRJHRE-7" value="client sends hello message, Cipher Suite" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7EA6E0;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="DBTXj5gluoL8a0wRJHRE-7" value="Client sends hello message, Cipher Suite" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7EA6E0;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="260" y="890" width="240" height="20" as="geometry" />
         </mxCell>
         <mxCell id="DBTXj5gluoL8a0wRJHRE-8" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;strokeColor=#7EA6E0;strokeWidth=2;" edge="1" parent="1">
@@ -359,6 +359,59 @@
         </mxCell>
         <mxCell id="DBTXj5gluoL8a0wRJHRE-20" value="" style="line;strokeWidth=2;html=1;labelBorderColor=#3399FF;strokeColor=#7EA6E0;" vertex="1" parent="1">
           <mxGeometry x="230" y="1045" width="30" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="DBTXj5gluoL8a0wRJHRE-21" value="Server decrypt &quot;pre-master&quot; key with private key" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7EA6E0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="260.31" y="1130" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DBTXj5gluoL8a0wRJHRE-23" value="" style="line;strokeWidth=2;html=1;labelBorderColor=#3399FF;strokeColor=#7EA6E0;" vertex="1" parent="1">
+          <mxGeometry x="499.31" y="1143.13" width="41" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="DBTXj5gluoL8a0wRJHRE-24" value="" style="line;strokeWidth=2;html=1;labelBorderColor=#3399FF;strokeColor=#7EA6E0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1140" width="30" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="DBTXj5gluoL8a0wRJHRE-25" value="&quot;pre-master&quot; key is in place now" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7EA6E0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="260.31" y="1190" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DBTXj5gluoL8a0wRJHRE-28" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;strokeColor=#7EA6E0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry x="195.25" y="1144" as="geometry">
+            <mxPoint x="500" y="1205" as="sourcePoint" />
+            <mxPoint x="540" y="1204.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="1205" />
+              <mxPoint x="520" y="1205" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DBTXj5gluoL8a0wRJHRE-29" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;strokeColor=#7EA6E0;strokeWidth=2;entryX=-0.001;entryY=0.228;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry x="-44.44" y="1189.12" as="geometry">
+            <mxPoint x="260.31" y="1204.62" as="sourcePoint" />
+            <mxPoint x="230.00000000000006" y="1204.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="260.31" y="1204.62" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DBTXj5gluoL8a0wRJHRE-30" value="HTTP message is encrypted and decrypted with shared master key" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7EA6E0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="260.31" y="1250" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DBTXj5gluoL8a0wRJHRE-31" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;strokeColor=#7EA6E0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry x="195.25" y="1204" as="geometry">
+            <mxPoint x="500" y="1265" as="sourcePoint" />
+            <mxPoint x="540" y="1264.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="1265" />
+              <mxPoint x="520" y="1265" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DBTXj5gluoL8a0wRJHRE-32" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;strokeColor=#7EA6E0;strokeWidth=2;entryX=-0.001;entryY=0.228;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry x="-44.44" y="1249.12" as="geometry">
+            <mxPoint x="260.30999999999995" y="1264.62" as="sourcePoint" />
+            <mxPoint x="230" y="1264.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="260.31" y="1264.62" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
