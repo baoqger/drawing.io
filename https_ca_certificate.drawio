@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-22T03:03:19.036Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="jYsNA7HmQ4WTCmIwSkJz" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-22T03:25:46.520Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="CcuZ6SOhtXh746OAUp0T" version="16.0.0" type="github">
   <diagram id="zD8Zef6-_hayys4gG_Wi" name="Page-1">
     <mxGraphModel dx="1209" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -294,6 +294,71 @@
             <mxPoint x="125" y="640" as="sourcePoint" />
             <mxPoint x="440" y="500" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="DBTXj5gluoL8a0wRJHRE-1" value="SSL/TLS handshake" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="230" y="840" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DBTXj5gluoL8a0wRJHRE-2" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;" vertex="1" parent="1">
+          <mxGeometry x="580" y="883.13" width="60" height="87.5" as="geometry" />
+        </mxCell>
+        <mxCell id="DBTXj5gluoL8a0wRJHRE-3" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.mobile;" vertex="1" parent="1">
+          <mxGeometry x="150" y="900" width="40" height="73.75" as="geometry" />
+        </mxCell>
+        <mxCell id="DBTXj5gluoL8a0wRJHRE-4" value="Client" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="987.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DBTXj5gluoL8a0wRJHRE-5" value="server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="987.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DBTXj5gluoL8a0wRJHRE-6" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;strokeWidth=1;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="230" y="870" width="310" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="DBTXj5gluoL8a0wRJHRE-7" value="client sends hello message, Cipher Suite" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7EA6E0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="260" y="890" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DBTXj5gluoL8a0wRJHRE-8" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;strokeColor=#7EA6E0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry x="195.25" y="839.5" as="geometry">
+            <mxPoint x="500" y="900.5" as="sourcePoint" />
+            <mxPoint x="540" y="900" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="900.5" />
+              <mxPoint x="520" y="900.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DBTXj5gluoL8a0wRJHRE-9" value="" style="line;strokeWidth=2;html=1;labelBorderColor=#3399FF;strokeColor=#7EA6E0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="895" width="30" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="DBTXj5gluoL8a0wRJHRE-10" value="Acknowledge of Cipher Suite, Digital Certificate(with public key)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7EA6E0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="260" y="957.5" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DBTXj5gluoL8a0wRJHRE-16" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;strokeColor=#7EA6E0;strokeWidth=2;entryX=-0.001;entryY=0.228;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="DBTXj5gluoL8a0wRJHRE-6">
+          <mxGeometry x="-44.75" y="959.5" as="geometry">
+            <mxPoint x="260" y="975" as="sourcePoint" />
+            <mxPoint x="300" y="1020" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="260" y="975" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DBTXj5gluoL8a0wRJHRE-17" value="" style="line;strokeWidth=2;html=1;labelBorderColor=#3399FF;strokeColor=#7EA6E0;" vertex="1" parent="1">
+          <mxGeometry x="499" y="970.63" width="41" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="DBTXj5gluoL8a0wRJHRE-18" value="&lt;span&gt;&amp;nbsp; &amp;nbsp; Verifies the certificate,&lt;/span&gt;&lt;br&gt;&lt;span&gt;&amp;nbsp; &amp;nbsp; Extract the public key,&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;span&gt;&amp;nbsp; &amp;nbsp; Encrypt &quot;pre-master&quot; key with public key,&amp;nbsp; &amp;nbsp; &amp;nbsp; Send encrypted &quot;pre-master&quot; key&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7EA6E0;strokeWidth=2;align=left;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1010" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DBTXj5gluoL8a0wRJHRE-19" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;strokeColor=#7EA6E0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry x="195.25" y="989.5" as="geometry">
+            <mxPoint x="500" y="1050.5" as="sourcePoint" />
+            <mxPoint x="540" y="1050" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="1050.5" />
+              <mxPoint x="520" y="1050.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DBTXj5gluoL8a0wRJHRE-20" value="" style="line;strokeWidth=2;html=1;labelBorderColor=#3399FF;strokeColor=#7EA6E0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1045" width="30" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
