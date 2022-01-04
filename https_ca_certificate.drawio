@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-04T07:38:40.515Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="EnM4pOmuTPvXKmLXZsOQ" version="16.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-04T07:38:56.901Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="Z3wtTHLaDGHIJx9NJzpE" version="16.1.2" type="github">
   <diagram id="zD8Zef6-_hayys4gG_Wi" name="Page-1">
     <mxGraphModel dx="1209" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -627,9 +627,6 @@
         <mxCell id="_V2_BGFMI04btn5LcqC1-63" value="" style="line;strokeWidth=2;html=1;labelBorderColor=#3399FF;strokeColor=#7EA6E0;" vertex="1" parent="1">
           <mxGeometry x="721.49" y="2194.63" width="41" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="_V2_BGFMI04btn5LcqC1-64" value="Attacker can intercept and decrypt every HTTP message&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=2;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="181" y="2260" width="530" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="_V2_BGFMI04btn5LcqC1-67" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;strokeColor=#7EA6E0;strokeWidth=2;entryX=-0.001;entryY=0.228;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry x="177.43" y="2181.75" as="geometry">
             <mxPoint x="482.18" y="2197.25" as="sourcePoint" />
@@ -654,13 +651,13 @@
         <mxCell id="_V2_BGFMI04btn5LcqC1-71" value="" style="endArrow=none;html=1;rounded=0;fontColor=#A9C4EB;strokeWidth=2;strokeColor=#7EA6E0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="451.87" y="1954.32" as="sourcePoint" />
-            <mxPoint x="451.87" y="2258.32" as="targetPoint" />
+            <mxPoint x="452" y="2300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_V2_BGFMI04btn5LcqC1-70" value="" style="endArrow=none;html=1;rounded=0;fontColor=#A9C4EB;strokeWidth=2;strokeColor=#7EA6E0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="141.37" y="1956" as="sourcePoint" />
-            <mxPoint x="141.37" y="2260" as="targetPoint" />
+            <mxPoint x="141" y="2300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_V2_BGFMI04btn5LcqC1-49" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/kameleon-free-pack/110/Hacker-128.png" vertex="1" parent="1">
@@ -684,7 +681,7 @@
         <mxCell id="_V2_BGFMI04btn5LcqC1-76" value="" style="endArrow=none;html=1;rounded=0;fontColor=#A9C4EB;strokeWidth=2;strokeColor=#7EA6E0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="761.4999999999999" y="1955.9999999999998" as="sourcePoint" />
-            <mxPoint x="761.4999999999999" y="2260" as="targetPoint" />
+            <mxPoint x="762" y="2290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_V2_BGFMI04btn5LcqC1-77" value="&lt;font color=&quot;#000000&quot;&gt;Ignore client&#39;s request; &lt;br&gt;send attacker&#39;s own request&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;fontStyle=1" vertex="1" parent="1">
@@ -698,6 +695,9 @@
         </mxCell>
         <mxCell id="_V2_BGFMI04btn5LcqC1-84" value="Man in the middle attack" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="295" y="1834.38" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_V2_BGFMI04btn5LcqC1-64" value="Attacker can intercept and decrypt every HTTP message&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=2;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="181" y="2260" width="530" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
