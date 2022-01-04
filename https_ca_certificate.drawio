@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-23T06:08:29.126Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="viZjehXVBJvHxovnCogP" version="16.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-04T06:28:13.606Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="m-v-iQUZa_imJj6Yskgj" version="16.1.2" type="github">
   <diagram id="zD8Zef6-_hayys4gG_Wi" name="Page-1">
-    <mxGraphModel dx="1209" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1209" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -410,6 +410,108 @@
             <mxPoint x="230" y="1264.5" as="targetPoint" />
             <Array as="points">
               <mxPoint x="260.31" y="1264.62" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_V2_BGFMI04btn5LcqC1-1" value="SSL/TLS handshake" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="222.5" y="1410" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_V2_BGFMI04btn5LcqC1-2" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;" vertex="1" parent="1">
+          <mxGeometry x="572.5" y="1608.13" width="60" height="87.5" as="geometry" />
+        </mxCell>
+        <mxCell id="_V2_BGFMI04btn5LcqC1-3" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.mobile;" vertex="1" parent="1">
+          <mxGeometry x="147.5" y="1625" width="40" height="73.75" as="geometry" />
+        </mxCell>
+        <mxCell id="_V2_BGFMI04btn5LcqC1-4" value="Client" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="137.5" y="1712.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_V2_BGFMI04btn5LcqC1-5" value="server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="572.5" y="1712.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_V2_BGFMI04btn5LcqC1-6" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;strokeWidth=1;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="222.5" y="1500" width="310" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="_V2_BGFMI04btn5LcqC1-7" value="Request public key" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7EA6E0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="252.5" y="1516" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_V2_BGFMI04btn5LcqC1-8" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;strokeColor=#7EA6E0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry x="187.75" y="1465.5" as="geometry">
+            <mxPoint x="492.5" y="1526.5" as="sourcePoint" />
+            <mxPoint x="532.5" y="1526" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="512.5" y="1526.5" />
+              <mxPoint x="512.5" y="1526.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_V2_BGFMI04btn5LcqC1-9" value="" style="line;strokeWidth=2;html=1;labelBorderColor=#3399FF;strokeColor=#7EA6E0;" vertex="1" parent="1">
+          <mxGeometry x="222.5" y="1521" width="30" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="_V2_BGFMI04btn5LcqC1-10" value="Send public key" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7EA6E0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="252.5" y="1560" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_V2_BGFMI04btn5LcqC1-11" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;strokeColor=#7EA6E0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry x="-52.25" y="1562" as="geometry">
+            <mxPoint x="252.5" y="1577.5" as="sourcePoint" />
+            <mxPoint x="222" y="1577.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="252.5" y="1577.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_V2_BGFMI04btn5LcqC1-12" value="" style="line;strokeWidth=2;html=1;labelBorderColor=#3399FF;strokeColor=#7EA6E0;" vertex="1" parent="1">
+          <mxGeometry x="491.5" y="1573.13" width="41" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="_V2_BGFMI04btn5LcqC1-13" value="&lt;span&gt;&amp;nbsp; &amp;nbsp; Encrypt a symmetric session key by public key; send the encrypted session key&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7EA6E0;strokeWidth=2;align=left;" vertex="1" parent="1">
+          <mxGeometry x="252.19" y="1610" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_V2_BGFMI04btn5LcqC1-14" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;strokeColor=#7EA6E0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry x="187.44" y="1569.5" as="geometry">
+            <mxPoint x="492.19" y="1630.5" as="sourcePoint" />
+            <mxPoint x="532.19" y="1630" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="512.19" y="1630.5" />
+              <mxPoint x="512.19" y="1630.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_V2_BGFMI04btn5LcqC1-15" value="" style="line;strokeWidth=2;html=1;labelBorderColor=#3399FF;strokeColor=#7EA6E0;" vertex="1" parent="1">
+          <mxGeometry x="222.19" y="1625" width="30" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="_V2_BGFMI04btn5LcqC1-16" value="Acknowledge" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7EA6E0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="252.5" y="1677.5" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_V2_BGFMI04btn5LcqC1-17" value="" style="line;strokeWidth=2;html=1;labelBorderColor=#3399FF;strokeColor=#7EA6E0;" vertex="1" parent="1">
+          <mxGeometry x="491.5" y="1690.63" width="41" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="_V2_BGFMI04btn5LcqC1-22" value="HTTP message is encrypted and decrypted with shared symmetric key" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7EA6E0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="252.5" y="1747.5" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_V2_BGFMI04btn5LcqC1-23" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;strokeColor=#7EA6E0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry x="187.44" y="1701.5" as="geometry">
+            <mxPoint x="492.19" y="1762.5" as="sourcePoint" />
+            <mxPoint x="532.19" y="1762" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="512.19" y="1762.5" />
+              <mxPoint x="512.19" y="1762.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_V2_BGFMI04btn5LcqC1-24" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;strokeColor=#7EA6E0;strokeWidth=2;entryX=-0.001;entryY=0.228;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry x="-52.25" y="1746.62" as="geometry">
+            <mxPoint x="252.49999999999994" y="1762.12" as="sourcePoint" />
+            <mxPoint x="222.19" y="1762" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="252.5" y="1762.12" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_V2_BGFMI04btn5LcqC1-26" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;strokeColor=#7EA6E0;strokeWidth=2;entryX=-0.001;entryY=0.228;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry x="-52.56" y="1677.75" as="geometry">
+            <mxPoint x="252.18999999999994" y="1693.25" as="sourcePoint" />
+            <mxPoint x="221.88" y="1693.13" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="252.19" y="1693.25" />
             </Array>
           </mxGeometry>
         </mxCell>
