@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-04T06:28:40.752Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="amPP3eufPFN5A_eIdpYb" version="16.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-04T06:29:09.108Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="2Iv9KqKZLkI-T8CqvI7m" version="16.1.2" type="github">
   <diagram id="zD8Zef6-_hayys4gG_Wi" name="Page-1">
     <mxGraphModel dx="1209" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -429,7 +429,7 @@
           <mxGeometry x="572.5" y="1712.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_V2_BGFMI04btn5LcqC1-6" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;strokeWidth=1;fillColor=#d5e8d4;" vertex="1" parent="1">
-          <mxGeometry x="222.5" y="1500" width="310" height="300" as="geometry" />
+          <mxGeometry x="222.5" y="1500" width="310" height="290" as="geometry" />
         </mxCell>
         <mxCell id="_V2_BGFMI04btn5LcqC1-7" value="Request public key" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7EA6E0;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="252.5" y="1516" width="240" height="20" as="geometry" />
@@ -463,55 +463,55 @@
           <mxGeometry x="491.5" y="1573.13" width="41" height="10" as="geometry" />
         </mxCell>
         <mxCell id="_V2_BGFMI04btn5LcqC1-13" value="&lt;span&gt;&amp;nbsp; &amp;nbsp; Encrypt a symmetric session key by public key; send the encrypted session key&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7EA6E0;strokeWidth=2;align=left;" vertex="1" parent="1">
-          <mxGeometry x="252.19" y="1610" width="240" height="40" as="geometry" />
+          <mxGeometry x="252.5" y="1620" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_V2_BGFMI04btn5LcqC1-14" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;strokeColor=#7EA6E0;strokeWidth=2;" edge="1" parent="1">
-          <mxGeometry x="187.44" y="1569.5" as="geometry">
-            <mxPoint x="492.19" y="1630.5" as="sourcePoint" />
-            <mxPoint x="532.19" y="1630" as="targetPoint" />
+          <mxGeometry x="187.75" y="1579.5" as="geometry">
+            <mxPoint x="492.5" y="1640.5" as="sourcePoint" />
+            <mxPoint x="532.5" y="1640" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="512.19" y="1630.5" />
-              <mxPoint x="512.19" y="1630.5" />
+              <mxPoint x="512.5" y="1640.5" />
+              <mxPoint x="512.5" y="1640.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="_V2_BGFMI04btn5LcqC1-15" value="" style="line;strokeWidth=2;html=1;labelBorderColor=#3399FF;strokeColor=#7EA6E0;" vertex="1" parent="1">
-          <mxGeometry x="222.19" y="1625" width="30" height="10" as="geometry" />
+          <mxGeometry x="222.5" y="1635" width="30" height="10" as="geometry" />
         </mxCell>
         <mxCell id="_V2_BGFMI04btn5LcqC1-16" value="Acknowledge" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7EA6E0;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="252.5" y="1677.5" width="240" height="30" as="geometry" />
+          <mxGeometry x="252.5" y="1682.5" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_V2_BGFMI04btn5LcqC1-17" value="" style="line;strokeWidth=2;html=1;labelBorderColor=#3399FF;strokeColor=#7EA6E0;" vertex="1" parent="1">
-          <mxGeometry x="491.5" y="1690.63" width="41" height="10" as="geometry" />
+          <mxGeometry x="491.5" y="1695.63" width="41" height="10" as="geometry" />
         </mxCell>
         <mxCell id="_V2_BGFMI04btn5LcqC1-22" value="HTTP message is encrypted and decrypted with shared symmetric key" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7EA6E0;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="252.5" y="1747.5" width="240" height="30" as="geometry" />
+          <mxGeometry x="252.5" y="1740" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_V2_BGFMI04btn5LcqC1-23" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;strokeColor=#7EA6E0;strokeWidth=2;" edge="1" parent="1">
-          <mxGeometry x="187.44" y="1701.5" as="geometry">
-            <mxPoint x="492.19" y="1762.5" as="sourcePoint" />
-            <mxPoint x="532.19" y="1762" as="targetPoint" />
+          <mxGeometry x="187.44" y="1694" as="geometry">
+            <mxPoint x="492.19" y="1755" as="sourcePoint" />
+            <mxPoint x="532.19" y="1754.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="512.19" y="1762.5" />
-              <mxPoint x="512.19" y="1762.5" />
+              <mxPoint x="512.19" y="1755" />
+              <mxPoint x="512.19" y="1755" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="_V2_BGFMI04btn5LcqC1-24" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;strokeColor=#7EA6E0;strokeWidth=2;entryX=-0.001;entryY=0.228;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry x="-52.25" y="1746.62" as="geometry">
-            <mxPoint x="252.49999999999994" y="1762.12" as="sourcePoint" />
-            <mxPoint x="222.19" y="1762" as="targetPoint" />
+          <mxGeometry x="-52.25" y="1739.12" as="geometry">
+            <mxPoint x="252.49999999999994" y="1754.62" as="sourcePoint" />
+            <mxPoint x="222.19" y="1754.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="252.5" y="1762.12" />
+              <mxPoint x="252.5" y="1754.62" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="_V2_BGFMI04btn5LcqC1-26" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;strokeColor=#7EA6E0;strokeWidth=2;entryX=-0.001;entryY=0.228;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry x="-52.56" y="1677.75" as="geometry">
-            <mxPoint x="252.18999999999994" y="1693.25" as="sourcePoint" />
-            <mxPoint x="221.88" y="1693.13" as="targetPoint" />
+          <mxGeometry x="-52.56" y="1682.75" as="geometry">
+            <mxPoint x="252.18999999999994" y="1698.25" as="sourcePoint" />
+            <mxPoint x="221.88" y="1698.13" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="252.19" y="1693.25" />
+              <mxPoint x="252.19" y="1698.25" />
             </Array>
           </mxGeometry>
         </mxCell>
