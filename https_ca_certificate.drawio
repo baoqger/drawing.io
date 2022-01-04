@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-04T07:28:15.018Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="zZmY9_0rud-tm5FV-fiE" version="16.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-04T07:28:56.742Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="A95t53_q1MtMAQa-Y8O4" version="16.1.2" type="github">
   <diagram id="zD8Zef6-_hayys4gG_Wi" name="Page-1">
     <mxGraphModel dx="1209" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -627,7 +627,7 @@
         <mxCell id="_V2_BGFMI04btn5LcqC1-63" value="" style="line;strokeWidth=2;html=1;labelBorderColor=#3399FF;strokeColor=#7EA6E0;" vertex="1" parent="1">
           <mxGeometry x="721.49" y="2194.63" width="41" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="_V2_BGFMI04btn5LcqC1-64" value="Attacker can intercept and decrypt every HTTP message&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="_V2_BGFMI04btn5LcqC1-64" value="Attacker can intercept and decrypt every HTTP message&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=2;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="181" y="2260" width="530" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_V2_BGFMI04btn5LcqC1-67" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;strokeColor=#7EA6E0;strokeWidth=2;entryX=-0.001;entryY=0.228;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
@@ -695,9 +695,6 @@
         </mxCell>
         <mxCell id="_V2_BGFMI04btn5LcqC1-80" value="&lt;font color=&quot;#000000&quot;&gt;Decrypt session key with attacker&#39;s private key&lt;br&gt;Re-encrypt session key with attacker&#39;s public key&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="470" y="2081" width="290" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_V2_BGFMI04btn5LcqC1-82" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ios-web-user-interface-multi-circle-flat-vol-4/512/Burn_fire_flame_danger_burning_hot-128.png;fontColor=#000000;strokeColor=#7EA6E0;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="270" y="2264.5" width="19" height="19" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
