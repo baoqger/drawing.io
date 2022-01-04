@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-04T06:28:13.606Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="m-v-iQUZa_imJj6Yskgj" version="16.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-04T06:28:40.752Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="amPP3eufPFN5A_eIdpYb" version="16.1.2" type="github">
   <diagram id="zD8Zef6-_hayys4gG_Wi" name="Page-1">
     <mxGraphModel dx="1209" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -413,8 +413,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_V2_BGFMI04btn5LcqC1-1" value="SSL/TLS handshake" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="222.5" y="1410" width="310" height="30" as="geometry" />
+        <mxCell id="_V2_BGFMI04btn5LcqC1-1" value="Exchange public key without certificate" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="225" y="1470" width="310" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_V2_BGFMI04btn5LcqC1-2" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;" vertex="1" parent="1">
           <mxGeometry x="572.5" y="1608.13" width="60" height="87.5" as="geometry" />
