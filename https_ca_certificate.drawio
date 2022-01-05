@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-05T07:43:28.627Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="mPCzERb4dpWQ88C6cvJc" version="16.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-05T07:54:05.026Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="Op01sKOikZHG1_vKZ9r7" version="16.1.4" type="github">
   <diagram id="zD8Zef6-_hayys4gG_Wi" name="Page-1">
     <mxGraphModel dx="1209" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -417,7 +417,7 @@
           <mxGeometry x="225" y="1470" width="310" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_V2_BGFMI04btn5LcqC1-2" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;" parent="1" vertex="1">
-          <mxGeometry x="511" y="1386.87" width="46" height="70.63" as="geometry" />
+          <mxGeometry x="77" y="2440" width="46" height="70.63" as="geometry" />
         </mxCell>
         <mxCell id="_V2_BGFMI04btn5LcqC1-3" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.mobile;" parent="1" vertex="1">
           <mxGeometry x="202.5" y="1384" width="40" height="73.75" as="geometry" />
@@ -698,6 +698,47 @@
         </mxCell>
         <mxCell id="_V2_BGFMI04btn5LcqC1-64" value="Attacker can intercept and decrypt every HTTP message&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=2;fillColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="181" y="2260" width="530" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KvkTP8Rnjh1iausZ5w8j-5" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;" vertex="1" parent="1">
+          <mxGeometry x="521" y="1396.87" width="46" height="70.63" as="geometry" />
+        </mxCell>
+        <mxCell id="KvkTP8Rnjh1iausZ5w8j-6" value="server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="514" y="1467.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KvkTP8Rnjh1iausZ5w8j-7" value="server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="2510.63" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KvkTP8Rnjh1iausZ5w8j-11" value="message M" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="172.62" y="2500" width="67.38" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KvkTP8Rnjh1iausZ5w8j-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KvkTP8Rnjh1iausZ5w8j-12" target="KvkTP8Rnjh1iausZ5w8j-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="2478" />
+              <mxPoint x="300" y="2478" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KvkTP8Rnjh1iausZ5w8j-12" value="hello world" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="164.37" y="2455.32" width="78.13" height="44.68" as="geometry" />
+        </mxCell>
+        <mxCell id="KvkTP8Rnjh1iausZ5w8j-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KvkTP8Rnjh1iausZ5w8j-13" target="KvkTP8Rnjh1iausZ5w8j-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KvkTP8Rnjh1iausZ5w8j-13" value="AKO888ABC.." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="357.31" y="2455.32" width="92.13" height="44.68" as="geometry" />
+        </mxCell>
+        <mxCell id="KvkTP8Rnjh1iausZ5w8j-14" value="hash from message M" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="2500" width="106.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KvkTP8Rnjh1iausZ5w8j-15" value="EDI77ASMLTA.." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="2455.32" width="92.13" height="44.68" as="geometry" />
+        </mxCell>
+        <mxCell id="KvkTP8Rnjh1iausZ5w8j-20" value="generate a hash" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="242.5" y="2450" width="106.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KvkTP8Rnjh1iausZ5w8j-21" value="encrypt using server&#39;s private key" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="453.63" y="2443" width="106.75" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
