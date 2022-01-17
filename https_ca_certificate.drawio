@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-17T23:04:44.005Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="EOc6wj0UDE-Y8dM04WkB" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-17T23:13:35.757Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="SXZOKr3NSZNuvGnw1MOf" version="16.2.7" type="github">
   <diagram id="zD8Zef6-_hayys4gG_Wi" name="Page-1">
     <mxGraphModel dx="1209" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -931,7 +931,7 @@
         <mxCell id="TXSp6wEY99DOx-gxbtqb-28" value="server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="193.62" y="3730.63" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TXSp6wEY99DOx-gxbtqb-29" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/font-awesome-solid-vol-2/576/file-signature-128.png;dashed=1;" vertex="1" parent="1">
+        <mxCell id="TXSp6wEY99DOx-gxbtqb-29" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#7EA6E0;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/font-awesome-solid-vol-2/576/file-signature-128.png;dashed=1;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="282.44" y="3510" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TXSp6wEY99DOx-gxbtqb-30" value="" style="shape=message;html=1;whiteSpace=wrap;html=1;outlineConnect=0;" vertex="1" parent="1">
@@ -965,7 +965,7 @@
           <mxGeometry x="409.95" y="3490" width="109" height="150" as="geometry" />
         </mxCell>
         <mxCell id="TXSp6wEY99DOx-gxbtqb-38" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/font-awesome-solid-vol-2/576/file-signature-128.png;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="441.95" y="3510" width="50" height="50" as="geometry" />
+          <mxGeometry x="441.95" y="3503" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TXSp6wEY99DOx-gxbtqb-39" value="" style="shape=message;html=1;whiteSpace=wrap;html=1;outlineConnect=0;fillColor=#999999;" vertex="1" parent="1">
           <mxGeometry x="436.8" y="3580" width="50" height="30" as="geometry" />
@@ -973,14 +973,17 @@
         <mxCell id="TXSp6wEY99DOx-gxbtqb-40" value="forged message M&lt;br&gt;&quot;no connection&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="410" y="3610" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TXSp6wEY99DOx-gxbtqb-41" value="digital signature" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="419.26" y="3550" width="90" height="30" as="geometry" />
+        <mxCell id="TXSp6wEY99DOx-gxbtqb-41" value="forged digital signature" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="401" y="3550" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TXSp6wEY99DOx-gxbtqb-42" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="363.44000000000005" y="3565" as="sourcePoint" />
             <mxPoint x="404" y="3565" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="TXSp6wEY99DOx-gxbtqb-45" value="The attacker can forge a valid signature by:&lt;br&gt;-hashing the forged message&lt;br&gt;-signing the new hash with its own private key" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="521" y="3540" width="299" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
