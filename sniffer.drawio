@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2022-03-01T03:46:25.653Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" version="16.5.6" etag="UdnGg9m_5NndXGeNF5_9" type="github"><diagram id="DJHwV8skvZSLPaq10q96">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-01T03:53:51.548Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="IIYoRvl_ASRHvc4UYBDW" version="16.5.6" type="github">
+  <diagram id="DJHwV8skvZSLPaq10q96" name="Page-1">
+    <mxGraphModel dx="1209" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PiHRLNnjZxn49eoiJa5--1" value="&#xa;&#xa;&lt;strong style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;times new roman&amp;quot;; font-size: medium; font-style: normal; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255);&quot;&gt;Preamble&lt;/strong&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="200" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PiHRLNnjZxn49eoiJa5--2" value="&lt;strong style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; font-size: medium ; text-align: left ; background-color: rgb(218 , 232 , 252)&quot;&gt;Destination MAC&lt;/strong&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;" vertex="1" parent="1">
+          <mxGeometry x="100" y="200" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PiHRLNnjZxn49eoiJa5--3" value="&lt;strong style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; font-size: medium ; text-align: left ; background-color: rgb(218 , 232 , 252)&quot;&gt;Source MAC&lt;/strong&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;" vertex="1" parent="1">
+          <mxGeometry x="300" y="200" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PiHRLNnjZxn49eoiJa5--4" value="&lt;strong style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; font-size: medium ; text-align: left ; background-color: rgb(218 , 232 , 252)&quot;&gt;Frame Type&lt;/strong&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;" vertex="1" parent="1">
+          <mxGeometry x="500" y="200" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PiHRLNnjZxn49eoiJa5--5" value="&lt;strong style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; font-size: medium ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;Payload&lt;/strong&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="200" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PiHRLNnjZxn49eoiJa5--7" value="&lt;strong style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; font-size: medium ; text-align: left ; background-color: rgb(245 , 245 , 245)&quot;&gt;FCS&amp;nbsp;&lt;/strong&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5F5F5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="720" y="200" width="80" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
