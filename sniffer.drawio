@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-07T23:49:56.239Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="bPMQhk46uT7WrDFqHIQy" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-10T23:24:56.223Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="bu4CNPWHW8tvBwH85-Qq" version="17.4.1" type="github">
   <diagram id="DJHwV8skvZSLPaq10q96" name="Page-1">
     <mxGraphModel dx="1209" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -128,50 +128,89 @@
         <mxCell id="34Yz2Y7QSDBdlpTuq_AG-30" value="PF_PACKET socket" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="135" y="390" width="85" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hPUaqsbVPEX-awE596Gw-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/crystalproject/Open-Office-Icons/lc_basicshapes.cube.png" vertex="1" parent="1">
+        <mxCell id="hPUaqsbVPEX-awE596Gw-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/crystalproject/Open-Office-Icons/lc_basicshapes.cube.png" parent="1" vertex="1">
           <mxGeometry x="50" y="78" width="24" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="hPUaqsbVPEX-awE596Gw-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/crystalproject/Open-Office-Icons/lc_basicshapes.cube.png" vertex="1" parent="1">
+        <mxCell id="hPUaqsbVPEX-awE596Gw-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/crystalproject/Open-Office-Icons/lc_basicshapes.cube.png" parent="1" vertex="1">
           <mxGeometry x="74" y="78" width="24" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="hPUaqsbVPEX-awE596Gw-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/crystalproject/Open-Office-Icons/lc_basicshapes.cube.png" vertex="1" parent="1">
+        <mxCell id="hPUaqsbVPEX-awE596Gw-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/crystalproject/Open-Office-Icons/lc_basicshapes.cube.png" parent="1" vertex="1">
           <mxGeometry x="98" y="78.5" width="24" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="hPUaqsbVPEX-awE596Gw-8" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/crystalproject/Open-Office-Icons/lc_basicshapes.cube.png" vertex="1" parent="1">
+        <mxCell id="hPUaqsbVPEX-awE596Gw-8" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/crystalproject/Open-Office-Icons/lc_basicshapes.cube.png" parent="1" vertex="1">
           <mxGeometry x="122" y="77.5" width="24" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="hPUaqsbVPEX-awE596Gw-9" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/crystalproject/Open-Office-Icons/lc_basicshapes.cube.png" vertex="1" parent="1">
+        <mxCell id="hPUaqsbVPEX-awE596Gw-9" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/crystalproject/Open-Office-Icons/lc_basicshapes.cube.png" parent="1" vertex="1">
           <mxGeometry x="146" y="77.5" width="24" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="hPUaqsbVPEX-awE596Gw-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/crystalproject/Open-Office-Icons/lc_basicshapes.cube.png" vertex="1" parent="1">
+        <mxCell id="hPUaqsbVPEX-awE596Gw-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/crystalproject/Open-Office-Icons/lc_basicshapes.cube.png" parent="1" vertex="1">
           <mxGeometry x="170" y="77.5" width="24" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="hPUaqsbVPEX-awE596Gw-11" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/crystalproject/Open-Office-Icons/lc_basicshapes.cube.png" vertex="1" parent="1">
+        <mxCell id="hPUaqsbVPEX-awE596Gw-11" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/crystalproject/Open-Office-Icons/lc_basicshapes.cube.png" parent="1" vertex="1">
           <mxGeometry x="195" y="77" width="24" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="hPUaqsbVPEX-awE596Gw-12" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/crystalproject/Open-Office-Icons/lc_basicshapes.cube.png" vertex="1" parent="1">
+        <mxCell id="hPUaqsbVPEX-awE596Gw-12" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/crystalproject/Open-Office-Icons/lc_basicshapes.cube.png" parent="1" vertex="1">
           <mxGeometry x="219" y="77" width="24" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="hPUaqsbVPEX-awE596Gw-13" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/crystalproject/Open-Office-Icons/lc_basicshapes.cube.png" vertex="1" parent="1">
+        <mxCell id="hPUaqsbVPEX-awE596Gw-13" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/crystalproject/Open-Office-Icons/lc_basicshapes.cube.png" parent="1" vertex="1">
           <mxGeometry x="243" y="76.5" width="24" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="hPUaqsbVPEX-awE596Gw-14" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/crystalproject/Open-Office-Icons/lc_basicshapes.cube.png" vertex="1" parent="1">
+        <mxCell id="hPUaqsbVPEX-awE596Gw-14" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/crystalproject/Open-Office-Icons/lc_basicshapes.cube.png" parent="1" vertex="1">
           <mxGeometry x="267" y="76.5" width="24" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="hPUaqsbVPEX-awE596Gw-15" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/crystalproject/Open-Office-Icons/lc_basicshapes.cube.png" vertex="1" parent="1">
+        <mxCell id="hPUaqsbVPEX-awE596Gw-15" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/crystalproject/Open-Office-Icons/lc_basicshapes.cube.png" parent="1" vertex="1">
           <mxGeometry x="291" y="76.5" width="24" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="hPUaqsbVPEX-awE596Gw-16" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#FFFFFF;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/crystalproject/Open-Office-Icons/lc_basicshapes.cube.png" vertex="1" parent="1">
+        <mxCell id="hPUaqsbVPEX-awE596Gw-16" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#FFFFFF;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/crystalproject/Open-Office-Icons/lc_basicshapes.cube.png" parent="1" vertex="1">
           <mxGeometry x="315" y="76.5" width="24" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="hPUaqsbVPEX-awE596Gw-17" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/crystalproject/Open-Office-Icons/lc_basicshapes.cube.png" vertex="1" parent="1">
+        <mxCell id="hPUaqsbVPEX-awE596Gw-17" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/crystalproject/Open-Office-Icons/lc_basicshapes.cube.png" parent="1" vertex="1">
           <mxGeometry x="338" y="76.5" width="24" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="hPUaqsbVPEX-awE596Gw-18" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#FFFFFF;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/crystalproject/Open-Office-Icons/lc_basicshapes.cube.png" vertex="1" parent="1">
+        <mxCell id="hPUaqsbVPEX-awE596Gw-18" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#FFFFFF;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/crystalproject/Open-Office-Icons/lc_basicshapes.cube.png" parent="1" vertex="1">
           <mxGeometry x="362" y="76.5" width="24" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="hPUaqsbVPEX-awE596Gw-19" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#FFFFFF;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/crystalproject/Open-Office-Icons/lc_basicshapes.cube.png" vertex="1" parent="1">
+        <mxCell id="hPUaqsbVPEX-awE596Gw-19" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#FFFFFF;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/crystalproject/Open-Office-Icons/lc_basicshapes.cube.png" parent="1" vertex="1">
           <mxGeometry x="386" y="76.5" width="24" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="j2gi52xnVK5M5suWUVbp-1" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="243" y="850" as="sourcePoint" />
+            <mxPoint x="513" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j2gi52xnVK5M5suWUVbp-2" value="User space" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="146" y="800" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j2gi52xnVK5M5suWUVbp-3" value="Kernel space" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="146" y="910" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j2gi52xnVK5M5suWUVbp-4" value="Application" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="243" y="800" width="168" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j2gi52xnVK5M5suWUVbp-5" value="BPF (virtual CPU)" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="243" y="880" width="167" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="j2gi52xnVK5M5suWUVbp-7" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.cpu;" vertex="1" parent="1">
+          <mxGeometry x="301" y="890" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="j2gi52xnVK5M5suWUVbp-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="j2gi52xnVK5M5suWUVbp-4" target="j2gi52xnVK5M5suWUVbp-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="860" as="sourcePoint" />
+            <mxPoint x="450" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j2gi52xnVK5M5suWUVbp-12" value="setsockopt(bpf_instructions)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="356" y="850" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j2gi52xnVK5M5suWUVbp-14" value="&lt;pre style=&quot;margin: 0px; padding: 0px; border: none; outline: 0px; font-weight: 400; font-style: normal; font-family: &amp;quot;source code pro&amp;quot;, consolas, monaco, menlo, consolas, monospace; font-size: 11px; vertical-align: baseline; overflow: auto; line-height: 22.4px; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;&lt;pre style=&quot;margin-top: 0px; margin-bottom: 0px; padding: 0px; border: none; outline: 0px; font-family: &amp;quot;source code pro&amp;quot;, consolas, monaco, menlo, consolas, monospace; font-size: 11px; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; overflow: auto; line-height: 22.4px;&quot;&gt;&lt;span class=&quot;line&quot; style=&quot;margin: 0px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline; height: 22.4px; font-size: 11px;&quot;&gt;(000) ldh      [12]&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span class=&quot;line&quot; style=&quot;margin: 0px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline; height: 22.4px; font-size: 11px;&quot;&gt;(001) jeq      &lt;span class=&quot;comment&quot; style=&quot;margin: 0px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline; font-size: 11px;&quot;&gt;#0x800           jt 2    jf 3&lt;/span&gt;&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span class=&quot;line&quot; style=&quot;margin: 0px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline; height: 22.4px; font-size: 11px;&quot;&gt;(002) ret      &lt;span class=&quot;comment&quot; style=&quot;margin: 0px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline; font-size: 11px;&quot;&gt;#262144&lt;/span&gt;&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span class=&quot;line&quot; style=&quot;margin: 0px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline; height: 22.4px; font-size: 11px;&quot;&gt;(003) ret      &lt;span class=&quot;comment&quot; style=&quot;margin: 0px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline; font-size: 11px;&quot;&gt;#0&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/pre&gt;" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=#FFF2CC;fontColor=#000000;fontSize=11;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="419.75" y="890" width="270.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="j2gi52xnVK5M5suWUVbp-16" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; display: inline; float: none;&quot;&gt;BPF instructions&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=11;fontColor=#000000;fontStyle=0;labelBackgroundColor=#FFF2CC;" vertex="1" parent="1">
+          <mxGeometry x="419" y="877" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j2gi52xnVK5M5suWUVbp-19" value="" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;labelBackgroundColor=#FFF2CC;fontSize=11;strokeColor=#666666;fillColor=#999999;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="351" y="910" width="69" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
