@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2022-09-22T09:20:36.379Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="JG4zdwXglP7jC2oE0a_h" version="20.3.0" type="github"><diagram id="pFrUCrIVSA07nVixNRKJ" name="Page-1">ddHBDsIgDADQr+HOIDN6nlMvnnbwTEYdJGxdGGbo17sF5iTTE+W1UFIIL1p/tqJXV5RgCKPSE34kjGWMHqZllmeQXc4CNFbLWLRCpV8QkUZ9aAlDUugQjdN9ijV2HdQuMWEtjmnZHU3atRcNbKCqhdnqTUungu5zuvoFdKOWzhmNmVYsxREGJSSOX8RLwguL6ELU+gLMPLxlLuHc6U/28zALnftxYArWu6dN8kO8fAM=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-22T09:41:08.747Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="qf__qiyqMJF1qT0KIuTQ" version="20.3.0" type="github">
+  <diagram id="pFrUCrIVSA07nVixNRKJ" name="Page-1">
+    <mxGraphModel dx="1209" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TGutVpatn3XHoCrsepDR-1" value="EthernetFrame" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="340" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TGutVpatn3XHoCrsepDR-2" value="IPPacket" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="260" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TGutVpatn3XHoCrsepDR-3" value="ARPPacket" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="425" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TGutVpatn3XHoCrsepDR-4" value="TCPSegment" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="110" y="384" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TGutVpatn3XHoCrsepDR-5" value="UDPSegment" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="260" y="384" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TGutVpatn3XHoCrsepDR-6" value="ICMPPacket" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="400" y="384" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TGutVpatn3XHoCrsepDR-7" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontSize=12;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="370" y="196" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="TGutVpatn3XHoCrsepDR-8" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontSize=12;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="294.38" y="224.13" width="53.5" height="264.25" as="geometry" />
+        </mxCell>
+        <mxCell id="TGutVpatn3XHoCrsepDR-10" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.383;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TGutVpatn3XHoCrsepDR-8" target="TGutVpatn3XHoCrsepDR-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="360" as="sourcePoint" />
+            <mxPoint x="450" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
