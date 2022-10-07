@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-07T22:40:28.533Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="13TmXvN2AKvxoTmgPOUz" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-07T22:44:32.915Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="bRPCR-FDzYjX0_bsm9Cm" version="20.4.0" type="github">
   <diagram id="OUUkaMthU_KySwqaSGZQ" name="Page-1">
     <mxGraphModel dx="1209" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -100,7 +100,7 @@
         <mxCell id="nHjYGwZLJxwoPSvmBA8X-8" value=".STACK" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="360" y="1130" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nHjYGwZLJxwoPSvmBA8X-9" value="Kernel Virtual Memory" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="nHjYGwZLJxwoPSvmBA8X-9" value="Kernel code and data structrue" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="360" y="1080" width="210" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nHjYGwZLJxwoPSvmBA8X-10" value="Memory Mapped Region" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
@@ -117,6 +117,15 @@
             <mxPoint x="400" y="1130" as="sourcePoint" />
             <mxPoint x="680" y="1200" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="nHjYGwZLJxwoPSvmBA8X-13" value="Memory &lt;b&gt;invisible&lt;/b&gt; to user code" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="598.75" y="1090" width="102.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nHjYGwZLJxwoPSvmBA8X-14" value="Process virtual memory" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="598.75" y="1240" width="102.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nHjYGwZLJxwoPSvmBA8X-15" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;strokeColor=#000000;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="578.75" y="1130" width="20" height="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
