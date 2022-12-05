@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-05T04:09:38.794Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="y7HuyD2qngUYIqDv6G1n" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-05T04:10:26.129Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="U_ZMCyXF3pAm6ocGKiRf" version="20.4.0" type="github">
   <diagram id="4smZeyvt5P-9_RaWFuqd" name="Page-1">
     <mxGraphModel dx="1449" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -38,9 +38,6 @@
               <mxPoint x="405" y="357" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="fH4loxEB4iK8McvrBhj8-18" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/hard_disk.svg;strokeColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="524" y="529.5" width="92.59" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fH4loxEB4iK8McvrBhj8-19" value="" style="group;fillColor=#d5e8d4;strokeColor=none;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="226" y="519.5" width="70" height="70" as="geometry" />
@@ -82,6 +79,12 @@
         </mxCell>
         <mxCell id="fH4loxEB4iK8McvrBhj8-29" value="block" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="460" y="529.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fH4loxEB4iK8McvrBhj8-30" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.vhd_data_disk;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="535" y="525" width="50" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="fH4loxEB4iK8McvrBhj8-31" value="disk" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="585" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
