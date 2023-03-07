@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-07T06:29:34.267Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="vo8xGaG47vgX8_avAYQB" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-07T06:33:04.321Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="CXvtwmKko1Z-xOlBczIK" version="20.8.23" type="github">
   <diagram name="Page-1" id="OcKVnmv9bkzOkqvMLp8E">
     <mxGraphModel dx="1221" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -335,6 +335,24 @@
         </mxCell>
         <mxCell id="Ws5o8NADeWL6D7EDnwbO-18" value="query:&lt;br&gt;get customer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="119" y="1335" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ws5o8NADeWL6D7EDnwbO-19" value="write data" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1170" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ws5o8NADeWL6D7EDnwbO-20" value="sync data" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="369" y="1394" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ws5o8NADeWL6D7EDnwbO-21" value="read data" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="324" y="1480" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ws5o8NADeWL6D7EDnwbO-22" value="remote call" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="321.81" y="1170" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ws5o8NADeWL6D7EDnwbO-23" value="produce message" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="342" y="1280" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ws5o8NADeWL6D7EDnwbO-24" value="consume message" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="344" y="1354" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
