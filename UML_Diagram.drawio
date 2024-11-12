@@ -243,19 +243,19 @@
           <mxGeometry x="199" y="1600" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="O60IhAS-51ve3mMH8GBg-45" value="&lt;i&gt;Process&lt;/i&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-170" y="1080" width="220" height="112" as="geometry" />
+          <mxGeometry x="-170" y="1120" width="250" height="112" as="geometry" />
         </mxCell>
         <mxCell id="O60IhAS-51ve3mMH8GBg-46" value="- thread: Thread" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="O60IhAS-51ve3mMH8GBg-45">
-          <mxGeometry y="26" width="220" height="26" as="geometry" />
+          <mxGeometry y="26" width="250" height="26" as="geometry" />
         </mxCell>
         <mxCell id="O60IhAS-51ve3mMH8GBg-48" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="O60IhAS-51ve3mMH8GBg-45">
-          <mxGeometry y="52" width="220" height="8" as="geometry" />
+          <mxGeometry y="52" width="250" height="8" as="geometry" />
         </mxCell>
         <mxCell id="O60IhAS-51ve3mMH8GBg-49" value="+ start(): void&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="O60IhAS-51ve3mMH8GBg-45">
-          <mxGeometry y="60" width="220" height="26" as="geometry" />
+          <mxGeometry y="60" width="250" height="26" as="geometry" />
         </mxCell>
         <mxCell id="O60IhAS-51ve3mMH8GBg-50" value="&lt;i&gt;+ runOnce(): boolean&lt;/i&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="O60IhAS-51ve3mMH8GBg-45">
-          <mxGeometry y="86" width="220" height="26" as="geometry" />
+          <mxGeometry y="86" width="250" height="26" as="geometry" />
         </mxCell>
         <mxCell id="O60IhAS-51ve3mMH8GBg-51" value="&lt;i&gt;ComponentExecutor&lt;/i&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-170" y="1270" width="250" height="190" as="geometry" />
@@ -281,7 +281,7 @@
         <mxCell id="O60IhAS-51ve3mMH8GBg-63" value="+ setOutgoingQueue(EventQueue): void&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="O60IhAS-51ve3mMH8GBg-51">
           <mxGeometry y="164" width="250" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="O60IhAS-51ve3mMH8GBg-56" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;entryX=0.462;entryY=0.989;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="O60IhAS-51ve3mMH8GBg-50">
+        <mxCell id="O60IhAS-51ve3mMH8GBg-56" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;entryX=0.462;entryY=0.989;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.46;exitY=0.004;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="O60IhAS-51ve3mMH8GBg-51" target="O60IhAS-51ve3mMH8GBg-50">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="-68" y="1270" as="sourcePoint" />
             <mxPoint x="270" y="1350" as="targetPoint" />
@@ -312,7 +312,7 @@
           <mxGeometry y="60" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="O60IhAS-51ve3mMH8GBg-73" value="OperatorExecutor" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="1572" width="140" height="86" as="geometry" />
+          <mxGeometry x="-60" y="1572" width="140" height="86" as="geometry" />
         </mxCell>
         <mxCell id="O60IhAS-51ve3mMH8GBg-74" value="- operator: Operator" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="O60IhAS-51ve3mMH8GBg-73">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
@@ -343,7 +343,7 @@
             <mxPoint x="-60" y="1500" as="sourcePoint" />
             <mxPoint x="-10" y="1450" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="20" y="1500" />
+              <mxPoint x="10" y="1500" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -357,7 +357,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="O60IhAS-51ve3mMH8GBg-90" value="" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=-0.009;exitY=0.088;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="O60IhAS-51ve3mMH8GBg-12">
+        <mxCell id="O60IhAS-51ve3mMH8GBg-90" value="" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=-0.009;exitY=0.088;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="O60IhAS-51ve3mMH8GBg-12" target="O60IhAS-51ve3mMH8GBg-74">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="376" y="1576" as="sourcePoint" />
             <mxPoint x="90" y="1614.41" as="targetPoint" />
@@ -365,7 +365,7 @@
               <mxPoint x="370" y="1576" />
               <mxPoint x="370" y="1530" />
               <mxPoint x="110" y="1530" />
-              <mxPoint x="110" y="1614" />
+              <mxPoint x="110" y="1610" />
             </Array>
           </mxGeometry>
         </mxCell>
