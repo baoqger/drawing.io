@@ -242,7 +242,7 @@
         <mxCell id="O60IhAS-51ve3mMH8GBg-44" value="1..*" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="72" y="1543" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="O60IhAS-51ve3mMH8GBg-45" value="Process" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O60IhAS-51ve3mMH8GBg-45" value="&lt;i&gt;Process&lt;/i&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-190" y="1740" width="220" height="112" as="geometry" />
         </mxCell>
         <mxCell id="O60IhAS-51ve3mMH8GBg-46" value="- thread: Thread" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="O60IhAS-51ve3mMH8GBg-45">
